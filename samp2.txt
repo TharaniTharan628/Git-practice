@@ -1,0 +1,3 @@
+samp2.txt
+
+"Sample file is created successfully"
